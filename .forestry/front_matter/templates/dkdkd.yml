@@ -1,4 +1,7 @@
 ---
 label: dkdkd
 hide_body: true
-fields: []
+fields:
+- name: dkdkd
+  type: boolean
+  label: dkdkd
